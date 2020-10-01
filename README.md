@@ -1,9 +1,10 @@
-# wheather
+# Weather
 
 A new Flutter application.
 
 ## Getting Started
 
+This project tells a detailed report about the weather conditions on any area on the Globe.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
